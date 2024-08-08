@@ -54,7 +54,7 @@ show_menu() {
 # 函数：显示欢迎信息
 show_welcome() {
     color_print $COLOR_BLUE "=================================================="
-    echo -e "                 Debian HomeNAS\n\n                                  QQ群：339169752\n作者：kekylin\n项目：https://github.com/kekylin/Debian-HomeNAS"
+    echo -e "                 Debian xinz-sun-panel\n\n                                  QQ群：339169752\n作者：xinz\n项目：https://github.com/seven-XINZ/debiain-sunpanel"
 }
 
 # 函数：主菜单处理
