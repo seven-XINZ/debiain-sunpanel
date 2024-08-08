@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 常量定义
-DEBIAN_HOMENAS_DIR="debian-homenas"
+DEBIAN_HOMENAS_DIR="debian"
 URL_PREFIX="https://github.com/seven-XINZ/debiain-sunpanel/blob/main/debian/Shell/"
 COLOR_RED="31"
 COLOR_GREEN="32"
