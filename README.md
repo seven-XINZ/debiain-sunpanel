@@ -22,7 +22,7 @@ wget -O debian.sh -q --show-progress https://raw.githubusercontent.com/seven-XIN
 
 sun-panel,一个精美的、易于使用的、导航页面管理器。自带中文，日常维护时，不管是部署、更新还是维护，都比较方便，但目前不是特别完善，推荐搭配图标库以及1panel面板使用。
   ```shell
-http://localhost:3000
+http://localhost:3002
   ```
 
 # 转载请保留出处
